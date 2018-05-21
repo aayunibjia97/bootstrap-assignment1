@@ -1,0 +1,40 @@
+.container-fluid{
+padding:0px;
+}
+.sect1{
+    padding: 50px;
+    background-image: url("../images/pexels-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    color: white;
+    
+}
+.para1{
+    padding: 10px;
+}
+.sect2{
+    background-color:  #202340;
+}
+.sect3{
+    background-color:darkslategray;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+.btn-outline-primary{
+    color: white;
+    border-color: white;
+}
+.row{
+    margin-right: 0px;
+}
+.sect4{
+    padding: 50px;
+}
+.sect5{
+    background-color: rgba(16, 153, 245, 0.897);
+}
+.col-sm-1{
+    max-width: 3.333333%;
+}
